@@ -95,7 +95,7 @@ window.SITE = {
     "00:00"
   ],
   "poke": "Бум-ц, бум-ц! 🎧",
-  "ink": "#0F0C24",
+  "ink": "#07061A",
   "confetti": [
     "#9B7BFF",
     "#E9FF4A",
